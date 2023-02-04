@@ -1,0 +1,750 @@
+{
+  "admins": [
+    {
+      "username": "Toma",
+      "imgURL": "https://cdn.i-scmp.com/sites/default/files/styles/768x768/public/d8/images/canvas/2022/12/21/4096fbac-ea38-446e-8bd3-eff352d0be44_d5b636d0.jpg",
+      "firstName": "Mohamed",
+      "secondName": "El Hosseiny",
+      "email": "Toma@admin.com",
+      "Phone": "0101010101033",
+      "password": "123123",
+      "privilege": "admin",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "username": "Ibrahim_mohamed",
+      "email": "admin@example.com",
+      "Phone": "01012345678",
+      "firstName": "Ibrahim",
+      "secondName": "Mohamed",
+      "password": "12345",
+      "privilege": "admin",
+      "imgURL": "https://avatars.githubusercontent.com/u/92824620?v=4"
+    }
+  ],
+  "managers": [
+    {
+      "id": 1,
+      "username": "Abo_Nessma",
+      "email": "manager@example.com",
+      "Phone": "01012345678",
+      "firstName": "Ahmed",
+      "secondName": "Mohamed",
+      "password": "12345",
+      "privilege": "manager",
+      "imgURL": "https://images.pexels.com/photos/2269872/pexels-photo-2269872.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "Lara",
+      "email": "user1@example.com",
+      "Phone": "01012345678",
+      "firstName": "Lara",
+      "secondName": "Croft",
+      "password": "12345",
+      "privilege": "user",
+      "imgURL": "https://images.pexels.com/photos/1264210/pexels-photo-1264210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 2,
+      "username": "El-lol",
+      "email": "user2@example.com",
+      "Phone": "01013345678",
+      "firstName": "Alaa",
+      "secondName": "Hamed",
+      "password": "12245",
+      "privilege": "user",
+      "imgURL": "https://images.pexels.com/photos/432059/pexels-photo-432059.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "firstName": "Khaled",
+      "secondName": "Ali",
+      "username": "Khalood",
+      "email": "user3@example.com",
+      "Phone": "1293102319128",
+      "password": "111",
+      "imgURL": "https://images.pexels.com/photos/428364/pexels-photo-428364.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "privilege": "user",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "username": "Salem",
+      "email": "moderator@example.com",
+      "Phone": "01012345678",
+      "firstName": "Salem",
+      "secondName": "El Rayes",
+      "password": "12345",
+      "privilege": "moderator",
+      "imgURL": "https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }
+  ],
+  "repacks": [
+    {
+      "id": 1,
+      "repackName": "WARHAMMER 40,000: BATTLESECTOR - DELUXE EDITION, V1.2.42 (19879) + 4 DLCS",
+      "genre": "Strategy, Tactics, Isometric, Turn-based, 3D",
+      "studio": "Black Lab Games, Slitherine Ltd.",
+      "languages": "RUS/ENG/MULTI9",
+      "og_size": "7.9 GB",
+      "rpk_size": "4.7 GB",
+      "coverURL": "https://i5.imageban.ru/out/2021/07/23/899f1ee19379ee58bc5a86ebd7c6f427.jpg",
+      "screenShotsURL": [
+        "http://s01.riotpixels.net/data/02/5d/025d02eb-c6bb-44e7-a25d-898522888f93.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/79/72/7972e780-5b51-4081-a3da-be073cde1d49.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/9b/ad/9bad4e23-8f62-4304-91a2-d8e672a0ee00.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/19/c5/19c58f17-5c02-441e-b055-6de53bd9f726.jpg.240p.jpg"
+      ],
+      "torrentURL": [
+        "https://1337x.to/torrent/5509254/Warhammer-40-000-Battlesector-Deluxe-Edition-v1-2-42-19879-4-DLCs-MULTi9-FitGirl-Repack/",
+        "http://rutor.info/torrent/871584/warhammer-40,000-battlesector-v-1.2.42-dlcs-2021-pc-repack-ot-fitgirl"
+      ],
+      "features": [
+        "Based on Warhammer_40000_Battlesector Sisters_of_Battle-Razor1911 ISO release: rzr-w40000bsob10242.iso (8,430,813,184 bytes)",
+        "Game version: v1.2.42 (19879); 4 DLCs (Blood Angels Elites Pack, Tyranid Elites Pack, Necrons Faction Pack & Sisters of Battle) are included and activated",
+        "Bonus Content (OST, Wallpapers & Manuals) is included by default",
+        "100% Lossless & MD5 Perfect: all files are identical to originals after installation",
+        "NOTHING ripped, NOTHING re-encoded",
+        "Smaller archive size (compressed from 7.9 to 4.7 GB)",
+        "Installation takes 3-5 minutes",
+        "After-install integrity check so you could make sure that everything installed properly",
+        "HDD space after installation: 9.6 GB",
+        "Language can be changed in game settings",
+        "At least 2 GB of free RAM (inc. virtual) required for installing this repack"
+      ]
+    },
+    {
+      "id": 2,
+      "repackName": "VILLAGE AND THE WITCH",
+      "genre": "Lifestyle, RPG, Isometric, 3D",
+      "studio": "Raytrace Interactive",
+      "languages": "RUS/ENG/MULTI8",
+      "og_size": "5.3 GB",
+      "rpk_size": "1.2 GB",
+      "coverURL": "https://i2.imageban.ru/out/2023/01/06/f862a2b40c6a560d2506cc0b28b62305.jpg",
+      "screenShotsURL": [
+        "http://s01.riotpixels.net/data/6b/cb/6bcb1fd3-6159-4cce-815a-6c90721b2ce9.jpg",
+        "http://s01.riotpixels.net/data/42/f9/42f977cb-279d-474f-9c22-3d26a34d94f4.jpg",
+        "http://s01.riotpixels.net/data/9e/d7/9ed77e72-9d16-4673-961c-9afa8a7461f2.jpg",
+        "http://s01.riotpixels.net/data/73/97/7397d906-52ea-4a3c-ba36-9c4f2209c0e6.jpg"
+      ],
+      "torrentURL": [
+        "https://1337x.to/torrent/5508843/Village-and-The-Witch-MULTi8-FitGirl-Repack/",
+        "http://rutor.info/torrent/904213/village-and-the-witch-2023-pc-repack-ot-fitgirl"
+      ],
+      "features": [
+        "Based on Village and The.Witch-TENOKE ISO release: tenoke-village and the.witch.iso (5,702,012,928 bytes)",
+        "Goldberg+SSE crack/emu applied over onstead of a faulty TENOKE crack (crashes on Windows 7)",
+        "100% Lossless & MD5 Perfect: all files are identical to originals after installation",
+        "NOTHING ripped, NOTHING re-encoded",
+        "Significantly smaller archive size (compressed from 5.3 to 1.2 GB)",
+        "Installation takes one minute",
+        "After-install integrity check so you could make sure that everything installed properly",
+        "HDD space after installation: 5.3 GB",
+        "Language can be changed in game settings",
+        "At least 2 GB of free RAM (inc. virtual) required for installing this repack"
+      ]
+    },
+    {
+      "id": 3,
+      "repackName": "THE ENTROPY CENTRE - V1.0.11",
+      "genre": "Logic, Puzzle, First-person, 3D",
+      "studio": "Stubby Games, Playstack",
+      "languages": "RUS/ENG/MULTI13",
+      "og_size": "11.2 GB",
+      "rpk_size": "7.6 GB",
+      "coverURL": "https://i3.imageban.ru/out/2022/11/03/392dc470446df2f3dbf79278af779b2e.jpg",
+      "screenShotsURL": [
+        "http://s01.riotpixels.net/data/44/76/4476190f-ae06-4553-a566-e4214ce4e7ea.jpg",
+        "http://s01.riotpixels.net/data/e7/9e/e79eeac8-6f0f-454d-9e1b-526266753abb.jpg",
+        "http://s01.riotpixels.net/data/a6/95/a695897f-31c5-44fe-a023-9869d63b8103.jpg",
+        "http://s01.riotpixels.net/data/8a/fe/8afeb0de-1997-4614-b055-90b63e08c7ff.jpg"
+      ],
+      "torrentURL": [
+        "https://1337x.to/torrent/5506369/The-Entropy-Centre-v1-0-11-MULTi13-FitGirl-Repack/",
+        "http://rutor.info/torrent/894847/the-entropy-centre-v-1.0.11-2022-pc-repack-ot-fitgirl"
+      ],
+      "features": [
+        "Based on The_Entropy_Centre_v1.0.11-FLT ISO release: flt-the_entropy_centre_v1.0.11.iso (12,040,095,744 bytes)",
+        "Game version: v1.0.11",
+        "100% Lossless & MD5 Perfect: all files are identical to originals after installation",
+        "NOTHING ripped, NOTHING re-encoded",
+        "Significantly smaller archive size (compressed from 11.2 to 7.6 GB)",
+        "Repack uses XTool library by Razor12911",
+        "Installation takes 3-10 minutes (depending on your system)",
+        "After-install integrity check so you could make sure that everything installed properly",
+        "HDD space after installation: 11.2 GB",
+        "Language can be changed in game settings",
+        "At least 2 GB of free RAM (inc. virtual) required for installing this repack"
+      ]
+    },
+    {
+      "id": 4,
+      "repackName": "GENERATION ZERO: COMPLETE COLLECTION - V2415920 (DANGEROUS EXPERIMENTS UPDATE) + 19 DLCS",
+      "genre": "Action, Shooter, Open world, First-person, 3D",
+      "studio": "Avalanche Studios",
+      "languages": "RUS/ENG/MULTI9",
+      "og_size": "35.3 GB",
+      "rpk_size": "10.8 GB",
+      "coverURL": "https://i6.imageban.ru/out/2022/02/09/e500a494ec834b70a4508ccf0dc02da3.jpg",
+      "screenShotsURL": [
+        "http://s01.riotpixels.net/data/df/74/df742c7b-5fdc-4892-9e54-a9e5967d56d3.jpg",
+        "http://s01.riotpixels.net/data/64/21/64212a4d-c096-4cc5-9385-2df664b8b059.jpg",
+        "http://s01.riotpixels.net/data/3f/7d/3f7d67ed-e2ba-4e2f-8c49-1357f25b4804.jpg",
+        "http://s01.riotpixels.net/data/46/61/4661dff9-a3b0-4865-be19-a922de150df2.jpg"
+      ],
+      "torrentURL": [
+        "https://1337x.to/torrent/5505696/Generation-Zero-Complete-Collection-v2415920-19-DLCs-MULTi9-FitGirl-Repack/",
+        "http://rutor.info/torrent/861813/generation-zero-complete-collection-v-2415920-dlcs-2019-pc-repack-ot-fitgirl"
+      ],
+      "features": [
+        "Based on Generation_Zero_Dangerous_Experiments-FLT ISO release: flt-generation_zero_dangerous_experiments.iso (37,856,763,904 bytes)",
+        "Game version is v2415920 (Dangerous Experiments Update); 19 DLCs are included and activated",
+        "100% Lossless & MD5 Perfect: all files are identical to originals after installation",
+        "NOTHING ripped, NOTHING re-encoded",
+        "Significantly smaller archive size (compressed from 35.3 to 10.8 GB)",
+        "Installation takes 10-24 minutes (depending on your system)",
+        "After-install integrity check so you could make sure that everything installed properly",
+        "HDD space after installation: 51.5 GB (up to 60.7 GB during installation)",
+        "Language can be changed in “flt.ini” file",
+        "Repack uses XTool library by Razor12911",
+        "At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+        "If you can't move your mouse cursor in the main menu, press Alt+Tab two times to switch from the game window and back"
+      ]
+    },
+    {
+      "id": 5,
+      "repackName": "POSTAL 4: NO REGERTS - V1.1.0 + 2 SOUNDTRACKS",
+      "genre": "Action, Shooter, Open world, First-person, 3D",
+      "studio": "Running With Scissors",
+      "languages": "RUS/ENG/MULTi4",
+      "og_size": "21.1 GB",
+      "rpk_size": "13.2 ~ 13.6 GB",
+      "coverURL": "https://i5.imageban.ru/out/2022/04/21/8c40ba283db192aff9c9d74539ed5d68.jpg",
+      "screenShotsURL": [
+        "http://s01.riotpixels.net/data/0a/e2/0ae2fb5d-85f7-44d6-9b8a-572b3ddfa9f4.jpg",
+        "http://s01.riotpixels.net/data/4b/12/4b12c9be-bdf4-4501-a4f8-eddf66d1651b.jpg",
+        "http://s01.riotpixels.net/data/32/b4/32b4ff9b-8ffe-4672-b3d2-869ea534664c.jpg",
+        "http://s01.riotpixels.net/data/07/b0/07b07a41-c581-43d4-85e5-51ce49a1e800.jpg"
+      ],
+      "torrentURL": [
+        "https://1337x.to/torrent/5505003/POSTAL-4-No-Regerts-v1-1-0-2-Soundtracks-MULTi4-FitGirl-Repack-Selective-Download-from-13-2-GB/",
+        "https://1337x.to/torrent/5505003/POSTAL-4-No-Regerts-v1-1-0-2-Soundtracks-MULTi4-FitGirl-Repack-Selective-Download-from-13-2-GB/"
+      ],
+      "features": [
+        "Based on POSTAL_4_No_Regerts_Karting_With_Scissors-FLT ISO release: flt-postal_4_no_regerts_karting_with_scissors.iso (22,633,930,752 bytes)",
+        "Game version: v1.1.0 ('Karting With Scissors' Update)",
+        "2 soundtracks (Official & KDTF) are included as an optional download",
+        "100% Lossless & MD5 Perfect: all files are identical to originals after installation",
+        "NOTHING ripped, NOTHING re-encoded",
+        "Selective Download feature: you may skip downloading and installing of bonus soundtracks & PDB debug files, which is useless for users w/o debug skills",
+        "Significantly smaller archive size (compressed from 21.1 to 13.2~13.6 GB, depending on selected components)",
+        "Installation takes from 3 minutes (16-threads CPU) up to 14 minutes (4-threads CPU)",
+        "After-install integrity check so you could make sure that everything installed properly",
+        "HDD space after installation: up to 21.5 GB",
+        "Repack uses XTool library by Razor12911",
+        "At least 2 GB of free RAM (inc. virtual) required for installing this repack"
+      ]
+    },
+    {
+      "id": 6,
+      "repackName": "GRAND THEFT AUTO V / GTA 5 - V1.0.2802/1.64 ONLINE",
+      "genre": "Action, Shooter, Driving, Open world, First-person, Third-person, 3D",
+      "studio": "Rockstar North / Rockstar Games",
+      "languages": "RUS/ENG/MULTI13",
+      "og_size": "108.3 GB",
+      "rpk_size": "47.5 GB",
+      "coverURL": "https://i3.imageban.ru/out/2021/12/31/7b4fae0cb0a8fa800bc02c17c9b6af9b.jpg",
+      "screenShotsURL": [
+        "https://s01.riotpixels.net/data/e0/07/e00740b0-f020-4ce2-b0a9-99e1c0ee6af8.jpg",
+        "http://s01.riotpixels.net/data/05/8b/058b13ec-0880-4bc3-9ac8-357dba74285e.jpg",
+        "https://s01.riotpixels.net/data/2e/3d/2e3d797e-2da3-4fe8-b871-9212421e8a4a.jpg",
+        "https://s01.riotpixels.net/data/f0/e5/f0e5b301-da8d-495b-b15e-e0e5accfedca.jpg"
+      ],
+      "torrentURL": [
+        "https://1337x.to/torrent/5503519/Grand-Theft-Auto-V-GTA-5-v1-0-2802-1-64-Online-MULTi13-FitGirl-Repack/",
+        "http://rutor.info/torrent/903372/gta-5_grand-theft-auto-v-v-1.0.2802/1.64-2015-pc-repack-ot-fitgirl"
+      ],
+      "features": [
+        "Based on v1.0.2802/1.64 Rockstar Club version (thanks to Nemos!): 108.3 GB",
+        "Mr.Goldberg SCE emu applied over",
+        "Game version is v1.0.2802/1.64 Online (NO, multiplayer IS NOT available!)",
+        "100% Lossless & MD5 Perfect: all files are identical to originals after installation",
+        "NOTHING ripped, NOTHING re-encoded - ALL MULTIPLAYER & DLC FILES are totally intact, repack is safe for modding",
+        "Significantly smaller archive size (compressed from 108.3 to 47.5 GB)",
+        "Installation takes from ~40 minutes on 16-threads CPU + SSD up to 2 hours 45 minutes on 4-threads CPU + HDD",
+        "After-install integrity check so you could make sure that everything installed properly",
+        "HDD space after installation: 108.3 GB",
+        "Use REG-files in “_Language Switcher” folder to change the game GUI language",
+        "Repack uses XTool library by Razor12911",
+        "At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+        "ALWAYS run the game from desktop icon and with admin rights"
+      ]
+    },
+    {
+      "id": 7,
+      "repackName": "TYRANNY: GOLD EDITION - V1.2.1.0160 + 5 DLCS/BONUSES",
+      "genre": "RPG, Isometric, 3D models on 2D backgrounds, Party-based, Pausable real-time",
+      "studio": "Obsidian Entertainment / Paradox Interactive",
+      "languages": "RUS/ENG/MULTI6",
+      "og_size": "9 GB",
+      "rpk_size": "5.3/5.9 GB",
+      "coverURL": "https://i4.imageban.ru/out/2022/12/31/e4b8df721a647968b93587512e06c72d.jpg",
+      "screenShotsURL": [
+        "http://s01.riotpixels.net/data/05/eb/05eb6958-5a2e-4ac7-9976-16002338f938.jpg",
+        "http://s01.riotpixels.net/data/f2/10/f2105663-9365-4833-ac6a-55d8f0620ab5.jpg",
+        "http://s01.riotpixels.net/data/6e/21/6e21f79d-e6f7-42da-b87a-646381585edb.jpg",
+        "http://s01.riotpixels.net/data/c0/83/c083acf1-c3eb-4344-8318-90c818039baa.jpg"
+      ],
+      "torrentURL": [
+        "https://1337x.to/torrent/5503260/Tyranny-Gold-Edition-v1-2-1-0160-5-DLCs-Bonuses-MULTi6-FitGirl-Repack-Selective-Download-from-5-3-GB/",
+        "http://rutor.info/torrent/903344/tyranny-gold-edition-v-1.2.1.0160v2-dlcs-2016-pc-repack-ot-fitgirl"
+      ],
+      "features": [
+        "Based on GOG v1.2.1.0160 release with bonus content: 9 GB",
+        "All released DLCs added and activated",
+        "100% Lossless & MD5 Perfect: all files are identical to originals after installation",
+        "NOTHING ripped, NOTHING re-encoded",
+        "You may skip downloading and installing of bonus content (OST, Portrait Pack, ArtBook, etc.)",
+        "Significantly smaller archive size (compressed from 9 to 5.3~5.9 GB, depending on selected content)",
+        "Installation takes 7-14 minutes (depending on your system and selected components)",
+        "After-install integrity check so you could make sure that everything installed properly",
+        "HDD space after installation: up to 15.3 GB",
+        "At least 2 GB of free RAM (inc. virtual) required for installing this repack"
+      ]
+    },
+    {
+      "id": 8,
+      "repackName": "WARM SNOW - V2.1.0 + THE ASH OF NIGHTMARE DLC BUILD 10232303",
+      "genre": "Action, RPG, Fantasy, Top-down, 2D",
+      "studio": "BadMudStudio, bilibili",
+      "languages": "ENG/MULTI4",
+      "og_size": "15.9 GB",
+      "rpk_size": "1.1 GB",
+      "coverURL": "https://i5.imageban.ru/out/2022/12/31/bb9d59eec420537eef5132a371ad1c10.jpg",
+      "screenShotsURL": [
+        "http://s01.riotpixels.net/data/b1/47/b147a41f-b282-4bfb-b172-64c1c10dc9c6.jpg",
+        "http://s01.riotpixels.net/data/9b/ce/9bce81ec-2e3d-44ce-b738-3890d4451dfe.jpg",
+        "http://s01.riotpixels.net/data/1e/60/1e60d414-1c71-4bb1-be34-4f73226b2195.jpg",
+        "http://s01.riotpixels.net/data/68/e0/68e017a3-ab72-45cd-97d9-d335ace72840.jpg"
+      ],
+      "torrentURL": [
+        "https://1337x.to/torrent/5503216/Warm-Snow-v2-1-0-The-Ash-of-Nightmare-DLC-Build-10232303-MULTi4-FitGirl-Repack/",
+        "http://tapochek.net/viewtopic.php?p=2890000"
+      ],
+      "features": [
+        "Based on Warm.Snow.v2.1.0.0-TENOKE ISO release: tenoke-warm.snow.v2.1.0.0.iso (8,517,040,128 bytes)",
+        "Missing The Ash of Nightmare DLC (Steam BuildID 10232303, 7.9 GB) added, thanks to Rui!",
+        "Goldberg+SSE crack/emu applied over onstead of a faulty TENOKE crack (crashes on Windows 7)",
+        "100% Lossless & MD5 Perfect: all files are identical to originals after installation",
+        "NOTHING ripped, NOTHING re-encoded",
+        "Significantly smaller archive size (compressed from cumulative 15.9 to 1.1 GB)",
+        "Installation takes 4 minutes",
+        "After-install integrity check so you could make sure that everything installed properly",
+        "HDD space after installation: 15.9 GB",
+        "Language can be changed in game settings",
+        "Use “Warm Snow” and “Warm Snow + DLC” desktop icons to run the initial game or the game with a DLC activated",
+        "At least 2 GB of free RAM (inc. virtual) required for installing this repack"
+      ]
+    },
+    {
+      "id": 9,
+      "repackName": "WAY OF THE HUNTER - V1.20 + HUNTER'S PACK DLC + WINDOWS 7 FIX",
+      "genre": "Sports, Hunting, First-person, 3D",
+      "studio": "Nine Rocks Games, THQ Nordic",
+      "languages": "RUS/ENG/MULTI16",
+      "og_size": "10.4 GB",
+      "rpk_size": "6.5 GB",
+      "coverURL": "https://i1.imageban.ru/out/2022/08/27/be60042843ac82e4fcebbe6daea5e9f3.jpg",
+      "screenShotsURL": [
+        "http://s01.riotpixels.net/data/b9/38/b938f3aa-d569-4490-a780-3db647f924d8.jpg",
+        "http://s01.riotpixels.net/data/b8/ee/b8eed891-d7fa-4015-8b52-51daea7ab240.jpg",
+        "http://s01.riotpixels.net/data/7e/e5/7ee59711-584b-44c8-90c6-8d7f302c534d.jpg",
+        "http://s01.riotpixels.net/data/f2/58/f2581dce-0375-4c69-92a3-160459615c2d.jpg"
+      ],
+      "torrentURL": [
+        "https://1337x.to/torrent/5501578/Way-of-the-Hunter-v1-20-Hunter-s-Pack-DLC-Windows-7-Fix-MULTi13-FitGirl-Repack/",
+        "http://rutor.info/torrent/886020/way-of-the-hunter-v-1.20-dlc-2022-pc-repack-ot-fitgirl"
+      ],
+      "features": [
+        "Based on Way_of_the_Hunter_v1.20-Razor1911 scene ISO release: rzr-wayofthehunter20.iso (11,148,361,728 bytes)",
+        "Game version: v1.20; Hunter’s Pack DLC is included and activated",
+        "100% Lossless & MD5 Perfect: all files are identical to originals after installation",
+        "NOTHING ripped, NOTHING re-encoded",
+        "Significantly smaller archive size (compressed from 10.4 to 6.5 GB)",
+        "Installation takes 4-8 minutes (depending on your system)",
+        "After-install integrity check so you could make sure that everything installed properly",
+        "HDD space after installation: 10.4 GB",
+        "Language can be changed in game settings",
+        "Repack uses XTool library by Razor12911",
+        "At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+        "Use files from “_Windows 7 Fix” folder to play on Windows 7, thanks to DXVK Team!"
+      ]
+    },
+    {
+      "id": 10,
+      "repackName": "YOUTUBERS LIFE 2 - V1.3.1.007 + CRACKFIX",
+      "genre": "Lifestyle, Isometric, Top-down, 3D",
+      "studio": "UPLAY Online, Raiser Games",
+      "languages": "RUS/ENG/MULTI12",
+      "og_size": "1.9 GB",
+      "rpk_size": "1 GB",
+      "coverURL": "https://i4.imageban.ru/out/2021/10/20/e7199303be6aeb04504a6fbe44eb0fdb.jpg",
+      "screenShotsURL": [
+        "http://s01.riotpixels.net/data/c9/9c/c99ce876-0680-4699-a813-7c1825b99c09.jpg",
+        "http://s01.riotpixels.net/data/41/e8/41e8cfb3-1ae3-442a-b440-cad290d6ce58.jpg",
+        "https://s01.riotpixels.net/data/6f/3a/6f3a965f-082f-49b5-938e-f0dd42c78a24.jpg",
+        "https://s01.riotpixels.net/data/1b/1b/1b1bf598-0282-4dc6-a4f4-56061eaa9b7f.jpg"
+      ],
+      "torrentURL": [
+        "https://1337x.to/torrent/5501478/Youtubers-Life-2-v1-3-1-007-Crackfix-MULTi12-FitGirl-Repack/",
+        "http://rutor.info/torrent/840616/youtubers-life-2-v-1.3.1.007-crackfix-2021-pc-repack-ot-fitgirl"
+      ],
+      "features": [
+        "Based on Youtubers.Life.2.CityStories-DOGE ISO release: wow-youtubers.life.2.citystories.iso (2,037,510,144 bytes)",
+        "Game version: v1.3.1.007",
+        "Original “Assembly-CSharp.dll” replaced with a fixed one, which bypasses hidden anti-piracy checks, thanks to Creedseeker!",
+        "100% Lossless & MD5 Perfect: all files are identical to originals after installation",
+        "NOTHING ripped, NOTHING re-encoded",
+        "Significantly smaller archive size (compressed from 1.9 to 1 GB)",
+        "Installation takes 2-5 minutes (depending on your system)",
+        "After-install integrity check so you could make sure that everything installed properly",
+        "HDD space after installation: 2.4 GB",
+        "Language can be changed in game settings",
+        "Repack uses XTool library by Razor12911",
+        "At least 2 GB of free RAM (inc. virtual) required for installing this repack"
+      ]
+    },
+    {
+      "id": 11,
+      "repackName": "WIGMUND - V1.2.2",
+      "genre": "Action, RPG, Fantasy, Isometric, 3D",
+      "studio": "The Scholastics",
+      "languages": "ENG",
+      "og_size": "1.9 GB",
+      "rpk_size": "940 MB",
+      "coverURL": "https://i2.imageban.ru/out/2022/03/29/5cd84c497788e017ea8c2e13aabeb53d.jpg",
+      "screenShotsURL": [
+        "http://s01.riotpixels.net/data/d1/83/d1832ffb-8032-4952-8d9f-43f9e7704150.jpg",
+        "http://s01.riotpixels.net/data/75/5a/755a08c0-2537-4fff-9b92-05b235f36b0a.jpg",
+        "http://s01.riotpixels.net/data/0d/9c/0d9c750c-dc46-40c7-993b-bc76678759a4.jpg",
+        "http://s01.riotpixels.net/data/e3/aa/e3aa1e09-f0b4-4676-bc16-212ed8384db1.jpg"
+      ],
+      "torrentURL": [
+        "http://s01.riotpixels.net/data/e3/aa/e3aa1e09-f0b4-4676-bc16-212ed8384db1.jpg",
+        "http://tapochek.net/viewtopic.php?p=2889610"
+      ],
+      "features": [
+        "Based on Wigmund.v1.2.2-I_KnoW ISO release: ik-w122w.iso (2,033,057,792 bytes)",
+        "100% Lossless & MD5 Perfect: all files are identical to originals after installation",
+        "NOTHING ripped, NOTHING re-encoded",
+        "Significantly smaller archive size (compressed from 1.9 GB to 940 MB)",
+        "Installation takes one minute",
+        "After-install integrity check so you could make sure that everything installed properly",
+        "HDD space after installation: 3.2 GB",
+        "Repack uses XTool library by Razor12911",
+        "At least 2 GB of free RAM (inc. virtual) required for installing this repack"
+      ]
+    },
+    {
+      "id": 12,
+      "repackName": "CAPTAIN TSUBASA: RISE OF NEW CHAMPIONS - DELUXE EDITION - V1.46.1 + 22 DLCS + WINDOWS 7 FIX",
+      "genre": "Arcade, Sports, Soccer, 3D, Japanese",
+      "studio": "Tamsoft, Bandai Namco Entertainment",
+      "languages": "ENG/MULTI9",
+      "og_size": "47.3 GB",
+      "rpk_size": "from 11.6 GB",
+      "coverURL": "https://i7.imageban.ru/out/2022/12/28/35a05e94c6bfbcc27c9570f2ebb64ff5.jpg",
+      "screenShotsURL": [
+        "http://s01.riotpixels.net/data/ef/e4/efe478fd-1934-45c1-8d82-d29803e67cdb.jpg",
+        "http://s01.riotpixels.net/data/54/7b/547b25bd-3ae1-4219-9028-a77258b662e5.jpg",
+        "http://s01.riotpixels.net/data/9a/1f/9a1f964a-9ee7-4de4-8912-f279211047fe.jpg",
+        "http://s01.riotpixels.net/data/ad/eb/adeb8752-ce0a-4ea8-b8ac-148b1ec3f3c9.jpg"
+      ],
+      "torrentURL": [
+        "https://s01.riotpixels.net/data/ad/eb/adeb8752-ce0a-4ea8-b8ac-148b1ec3f3c9.jpg",
+        "http://tapochek.net/viewtopic.php?p=2711858"
+      ],
+      "features": [
+        "Based on Captain.Tsubasa.Rise.of.New.Champions-TENOKE scene ISO release: tenoke-captain.tsubasa.rise.of.new.champions.iso (50,790,905,856 bytes)",
+        "Game version: v1.46.1; 22 DLCs are included and activated",
+        "Copy DLL file from “_Windows 7 Fix” folder to the game root to play on Windows 7",
+        "100% Lossless & MD5 Perfect: all files are identical to originals after installation",
+        "NOTHING ripped, NOTHING re-encoded",
+        "Selective Download feature: you may skip downloading and installing of end credits video",
+        "Significantly smaller archive size (compressed from 47.3 to 11.6/12.5 GB)",
+        "Installation takes 7-20 minutes (depending on your system)",
+        "After-install integrity check so you could make sure that everything installed properly",
+        "HDD space after installation: 47.3 GB",
+        "Language can be changed in game settings",
+        "Repack uses XTool library by Razor12911",
+        "At least 2 GB of free RAM (inc. virtual) required for installing this repack"
+      ]
+    },
+    {
+      "id": 13,
+      "repackName": "AUTONAUTS - V140.1 (FULLY AUTOMATED)",
+      "genre": "Managerial, Retro, Isometric, 3D",
+      "studio": "Denki, Curve Games",
+      "languages": "RUS/ENG/MULTI11",
+      "og_size": "408 MB",
+      "rpk_size": "203 MB",
+      "coverURL": "https://i2.imageban.ru/out/2022/12/28/1d8a7549d2fc50ca4debda2834f66d7f.jpg",
+      "screenShotsURL": [
+        "http://s01.riotpixels.net/data/f2/58/f258b86c-3ceb-49fa-aaca-957d6b8c719f.jpg",
+        "http://s01.riotpixels.net/data/6d/e1/6de10673-f8fe-44b0-9a97-5f9b36332045.jpg",
+        "http://s01.riotpixels.net/data/97/65/976568b6-69cb-4ec5-9c6b-0ceff9f9cee2.jpg",
+        "http://s01.riotpixels.net/data/21/6c/216c9ef5-182f-4bf1-88a0-a0d81e87de2a.jpg"
+      ],
+      "torrentURL": [
+        "https://1337x.to/torrent/5500289/Autonauts-v140-1-Fully-Automated-MULTi11-FitGirl-Repack/",
+        "http://rutor.info/torrent/902964/autonauts-v-140.1-2019-pc-repack-ot-fitgirl"
+      ],
+      "features": [
+        "Based on Autonauts.Fully.Automated-DOGE ISO release: wow-autonauts.fully.automated.iso (427,534,336 bytes)",
+        "Game version: v140.1 (Fully Automated)",
+        "100% Lossless & MD5 Perfect: all files are identical to originals after installation",
+        "NOTHING ripped, NOTHING re-encoded",
+        "Significantly smaller archive size (compressed from 408 to 203 MB)",
+        "Installation takes half-a-minute",
+        "After-install integrity check so you could make sure that everything installed properly",
+        "HDD space after installation: 906 MB",
+        "Language can be changed in game settings",
+        "Repack uses XTool library by Razor12911",
+        "At least 2 GB of free RAM (inc. virtual) required for installing this repack"
+      ]
+    },
+    {
+      "id": 14,
+      "repackName": "MOTORCYCLE MECHANIC SIMULATOR 2021 - V1.0.57.10 + 2 DLCS",
+      "genre": "Lifestyle, First-person, 3D",
+      "studio": "PlayWay S.A., Play2Chill S.A.",
+      "languages": "RUS/ENG/MULTI14",
+      "og_size": "16.8 GB",
+      "rpk_size": "8.1 GB",
+      "coverURL": "https://i116.fastpic.org/big/2021/1120/7d/4d04c33e4e4e8c81f7b500558d95347d.jpg?md5=KnJm7k06fF4-T77top5zHA&expires=1673078400",
+      "screenShotsURL": [
+        "http://s01.riotpixels.net/data/7f/c8/7fc89f23-cf4c-4f5c-952c-f089d2d7e3e4.jpg",
+        "http://s01.riotpixels.net/data/af/b3/afb3ba92-11d8-4054-ab72-2be42c13af65.jpg",
+        "http://s01.riotpixels.net/data/44/d8/44d8a044-220e-471f-aa62-ee9d1bd12c64.jpg",
+        "http://s01.riotpixels.net/data/73/3c/733cdab7-65df-44aa-8e4f-d7fa36808150.jpg"
+      ],
+      "torrentURL": [
+        "https://1337x.to/torrent/5500191/Motorcycle-Mechanic-Simulator-2021-v1-0-57-10-2-DLCs-MULTi14-FitGirl-Repack/",
+        "http://rutor.info/torrent/846490/motorcycle-mechanic-simulator-2021-v-1.0.57.10-dlcs-2021-pc-repack-ot-fitgirl"
+      ],
+      "features": [
+        "Based on Motorcycle.Mechanic.Simulator.2021.Electric.Bike-DOGE ISO release: wow-motorcycle.mechanic.simulator.2021.electric.bike.iso (16,990,908,416 bytes)",
+        "Game version: v1.0.57.10; 2 DLCs (Scooter & Electric Bike) are included and activated",
+        "100% Lossless & MD5 Perfect: all files are identical to originals after installation",
+        "NOTHING ripped, NOTHING re-encoded",
+        "Significantly smaller archive size (compressed from 16.8 to 8.1 GB)",
+        "Installation takes: from 8 minutes on 24-threads CPU up to 45 minutes on 4-threads CPU",
+        "After-install integrity check so you could make sure that everything installed properly",
+        "HDD space after installation: 19.7 GB",
+        "Language can be changed in game settings",
+        "Repack uses XTool library by Razor12911",
+        "At least 2 GB of free RAM (inc. virtual) required for installing this repack"
+      ]
+    },
+    {
+      "id": 15,
+      "repackName": "YOUROPA - V2.0.10",
+      "genre": "Arcade, Platform adventure, Puzzle solving, Third-person, 3D",
+      "studio": "frecle",
+      "languages": "RUS/ENG/MULTi16",
+      "og_size": "653 MB",
+      "rpk_size": "424 MB",
+      "coverURL": "https://i6.imageban.ru/out/2022/12/28/b7a7f66cbe6ba2d6728e855c6b966ff7.jpg",
+      "screenShotsURL": [
+        "http://s01.riotpixels.net/data/92/41/924131f2-b33c-4d5f-94df-b24f4d52aa36.jpg",
+        "http://s01.riotpixels.net/data/4f/ce/4fce3095-f940-41e4-9d16-024721ca4cb5.jpg",
+        "http://s01.riotpixels.net/data/0f/08/0f08cd5d-119d-40cc-a4d8-91a964651607.jpg",
+        "http://s01.riotpixels.net/data/c4/b2/c4b25961-b3be-4457-93f5-eb9499ba3c27.jpg"
+      ],
+      "torrentURL": [
+        "https://1337x.to/torrent/5500105/Youropa-v2-0-10-MULTi16-FitGirl-Repack/",
+        "https://1337x.to/torrent/5500105/Youropa-v2-0-10-MULTi16-FitGirl-Repack/"
+      ],
+      "features": [
+        "Based on Youropa.v2.0.10-DOGE ISO release: wow-youropa.v2.0.10.iso (684,396,544 bytes)",
+        "100% Lossless & MD5 Perfect: all files are identical to originals after installation",
+        "NOTHING ripped, NOTHING re-encoded",
+        "Significantly smaller archive size (compressed from 653 to 424 MB)",
+        "Installation takes 1-2 minutes",
+        "After-install integrity check so you could make sure that everything installed properly",
+        "HDD space after installation: 1 GB",
+        "Language can be changed in game settings",
+        "At least 2 GB of free RAM (inc. virtual) required for installing this repack"
+      ]
+    },
+    {
+      "id": 16,
+      "repackName": "THE COMPANION - V1.22 + BONUS SOUNDTRACK",
+      "genre": "Exploration, Third-person, 3D, Adventure",
+      "studio": "David Fazzio, Studio 46",
+      "languages": "RUS/ENG/MULTI11",
+      "og_size": "6.4 GB",
+      "rpk_size": "2.4 GB",
+      "coverURL": "https://i3.imageban.ru/out/2022/12/28/d3fbccf211b9277ff0fb4e9c8254cb17.jpg",
+      "screenShotsURL": [
+        "http://s01.riotpixels.net/data/d5/b9/d5b926f5-992f-4ad2-bd8e-15d24f6ac925.jpg",
+        "http://s01.riotpixels.net/data/10/4f/104f7edb-ddca-4900-a424-e74867084688.jpg",
+        "http://s01.riotpixels.net/data/c0/b3/c0b3ac48-cfb9-49d7-a6fc-43efd4110634.jpg",
+        "http://s01.riotpixels.net/data/75/3e/753eede2-7b77-4ce4-907c-31056529de01.jpg"
+      ],
+      "torrentURL": [
+        "https://1337x.to/torrent/5499827/The-Companion-v1-22-Bonus-Soundtrack-MULTi11-FitGirl-Repack/",
+        "http://rutor.info/torrent/902867/the-companion-v-1.22-2021-pc-repack-ot-fitgirl"
+      ],
+      "features": [
+        "Based on The_Companion_v1.22-DINOByTES ISO release: din-thecompanion122.iso (6,852,050,944 bytes)",
+        "Game version: v1.22; Bonus OST in MP3 format is included by default",
+        "100% Lossless & MD5 Perfect: all files are identical to originals after installation",
+        "Bonus OST in non-MP3 formats ripped, NOTHING re-encoded",
+        "Significantly smaller archive size (compressed from 6.4 to 2.4 GB)",
+        "Installation takes 2-4 minutes",
+        "After-install integrity check so you could make sure that everything installed properly",
+        "HDD space after installation: 4.5 GB",
+        "Language can be changed in game settings",
+        "Repack uses XTool library by Razor12911",
+        "At least 2 GB of free RAM (inc. virtual) required for installing this repack"
+      ]
+    },
+    {
+      "id": 17,
+      "repackName": "MX VS ATV LEGENDS - V1.16 + 11 DLCS + WINDOWS 7 FIX",
+      "genre": "Racing, ATV, Motorcycles, 3D",
+      "studio": "Rainbow Studios, THQ Nordic",
+      "languages": "RUS/ENG/MULTI11",
+      "og_size": "28 GB",
+      "rpk_size": "16.6 GB",
+      "coverURL": "https://i2.imageban.ru/out/2022/07/03/3bbacc7176b2b4c98704eacfa7b69b9f.jpg",
+      "screenShotsURL": [
+        "http://s01.riotpixels.net/data/f1/3f/f13fbae0-5b2b-4035-83b2-69c530a84ab1.jpg",
+        "http://s01.riotpixels.net/data/46/33/4633b4dc-64de-4672-8f38-c43bdf947c4e.jpg",
+        "http://s01.riotpixels.net/data/11/6a/116a783a-e9c1-4214-873c-468ae86ae2c1.jpg",
+        "http://s01.riotpixels.net/data/84/f6/84f6ae47-63e6-4c26-80c9-108f80766a01.jpg"
+      ],
+      "torrentURL": [
+        "https://1337x.to/torrent/5499726/MX-vs-ATV-Legends-v1-16-11-DLCs-Windows-7-Fix-MULTi11-FitGirl-Repack/",
+        "http://rutor.info/torrent/879870/mx-vs-atv-legends-v-1.16-dlcs-win7-fix-2022-pc-repack-ot-fitgirl"
+      ],
+      "features": [
+        "Based on MX_vs_ATV_Legends_Supercross_World_Tour-FLT ISO release: flt-mx_vs_atv_legends_supercross_world_tour.iso (30,077,478,912 bytes)",
+        "Game version: v1.16; 11 DLCs are included and activated; Track Pass is not an actual DLC, so not counted",
+        "DXVK-based Windows 7 Fix is available in “_Windows 7 Fix” folder after installation, thanks to dirtbike!",
+        "100% Lossless & MD5 Perfect: all files are identical to originals after installation",
+        "NOTHING ripped, NOTHING re-encoded",
+        "Significantly smaller archive size (compressed from 28 to 16.6 GB)",
+        "Installation takes 6-22 minutes (depending on your system)",
+        "After-install integrity check so you could make sure that everything installed properly",
+        "HDD space after installation: 29.1 GB",
+        "To force the game language, open properties for game desktop icon and add the parameter for the MxGame2021.exe: -culture=00, replace “00” with one of the following: EN, DE, ES, FR, IT, PT_BR, PL, RU, JA_JP, KO_KR, ZH_CN",
+        "Repack uses XTool library by Razor12911",
+        "At least 2 GB of free RAM (inc. virtual) required for installing this repack"
+      ]
+    },
+    {
+      "id": 18,
+      "repackName": "MAYHEM BRAWLER - V2.1.9",
+      "genre": "Arcade, Beat 'em up (Brawler), Side, 2D",
+      "studio": "Hero Concept",
+      "languages": "RUS/ENG/MULTI11",
+      "og_size": "1.1 GB",
+      "rpk_size": "818 MB",
+      "coverURL": "https://i4.imageban.ru/out/2021/08/21/4f648acbce0893034e108c589674a2d2.jpg",
+      "screenShotsURL": [
+        "http://s01.riotpixels.net/data/2d/72/2d727d94-c840-47a9-9486-69369bea03c4.jpg",
+        "http://s01.riotpixels.net/data/bd/af/bdaf8e02-41fe-477e-b2c5-dcf1f2795fb7.jpg",
+        "http://s01.riotpixels.net/data/43/78/43787d32-f7bd-4525-85ef-9f50e279e761.jpg",
+        "http://s01.riotpixels.net/data/78/27/78275cf7-335c-4e45-a979-9adab75a7225.jpg"
+      ],
+      "torrentURL": [
+        "https://1337x.to/torrent/5499530/Mayhem-Brawler-v2-1-9-MULTi11-FitGirl-Repack/",
+        "https://1337x.to/torrent/5499530/Mayhem-Brawler-v2-1-9-MULTi11-FitGirl-Repack/"
+      ],
+      "features": [
+        "Based on Mayhem.Brawler.v2.1.9-DOGE ISO release: wow-mayhem.brawler.v2.1.9.iso (1,218,816,000 bytes)",
+        "Game version: v2.1.9",
+        "100% Lossless & MD5 Perfect: all files are identical to originals after installation",
+        "NOTHING ripped, NOTHING re-encoded",
+        "Smaller archive size (compressed from 1.1 GB to 818 MB)",
+        "Installation takes 2-4 minutes (depending on your system)",
+        "After-install integrity check so you could make sure that everything installed properly",
+        "HDD space after installation: 1.3 GB",
+        "Language can be changed in game settings",
+        "At least 2 GB of free RAM (inc. virtual) required for installing this repack"
+      ]
+    },
+    {
+      "id": 19,
+      "repackName": "TEARDOWN - V1.3 (ART VANDALS UPDATE)",
+      "genre": "Action, Physics-based, First-person, 3D",
+      "studio": "Tuxedo Labs",
+      "languages": "ENG",
+      "og_size": "3.2 GB",
+      "rpk_size": "1 GB",
+      "coverURL": "https://i2.imageban.ru/out/2022/04/21/d17725a7d47ab9f2c20373da0dfda184.jpg",
+      "screenShotsURL": [
+        "https://s01.riotpixels.net/data/32/dd/32dd2088-2f1b-4e47-98c6-411cd7485055.jpg",
+        "https://s01.riotpixels.net/data/14/22/14225314-5450-4267-b588-7aea574f59f4.jpg",
+        "https://s01.riotpixels.net/data/22/07/22076b22-66cf-43af-8b5a-b9cc573b9aa0.jpg",
+        "https://s01.riotpixels.net/data/28/c9/28c93d01-d27c-43e3-913d-9bc4be538cd3.jpg"
+      ],
+      "torrentURL": [
+        "https://1337x.to/torrent/5489268/Teardown-v1-3-Art-Vandals-Update-FitGirl-Repack/",
+        "http://tapochek.net/viewtopic.php?p=2887745"
+      ],
+      "features": [
+        "Based on Steam BuildID 10148769 release: 3.2 GB, thanks to CarreerBreaker!",
+        "Game version: v1.3 (Art Vandals Update)",
+        "DARKSiDERS/Steamless crack/emu applied over",
+        "100% Lossless & MD5 Perfect: all files are identical to originals after installation",
+        "NOTHING ripped, NOTHING re-encoded",
+        "Significantly smaller archive size (compressed from 3.2 to 1 GB)",
+        "Installation takes 4-9 minutes (depending on your system)",
+        "After-install integrity check so you could make sure that everything installed properly",
+        "HDD space after installation: 3.2 GB",
+        "Repack uses XTool library by Razor12911",
+        "At least 3 GB of free RAM (inc. virtual) required for installing this repack"
+      ]
+    },
+    {
+      "id": 20,
+      "repackName": "ART OF RALLY: DELUXE EDITION - V1.4.2A (INDONESIA UPDATE) + BONUS CONTENT",
+      "genre": "Racing, Rally, Top-down, 3D",
+      "studio": "Funselektor Labs",
+      "languages": "RUS/ENG/MULTI12",
+      "og_size": "7 GB",
+      "rpk_size": "from 1.6 GB",
+      "coverURL": "https://i2.imageban.ru/out/2021/08/12/1475dd4b81878e52b172a95b9b111039.jpg",
+      "screenShotsURL": [
+        "https://s01.riotpixels.net/data/d7/db/d7db3ed0-0944-49d4-b67f-1e342545a658.jpg",
+        "https://s01.riotpixels.net/data/7d/76/7d76852f-63bf-41b2-a487-c693f0be93da.jpg",
+        "https://s01.riotpixels.net/data/87/2b/872bcf88-0f27-412b-8e74-673d3300af9b.jpg",
+        "https://s01.riotpixels.net/data/2b/1e/2b1ef5a0-dcb9-457c-8a8c-e73037686c19.jpg"
+      ],
+      "torrentURL": [
+        "https://1337x.to/torrent/5498923/art-of-rally-deluxe-edition-v1-4-2a-Indonesia-Update-Bonus-Content-MULTi12-FitGirl-Repack-Selective-Download-from-1-6-GB/",
+        "http://rutor.info/torrent/829341/art-of-rally-deluxe-edition-v-1.4.2a-2020-pc-repack-ot-fitgirl"
+      ],
+      "features": [
+        "Based on Art.Of.Rally.Indonesia.v1.4.2.Merry.Christmas-I_KnoW ISO release: ik-ar42w.iso (7,543,554,048 bytes)",
+        "Game version is v1.4.2a (Indonesia Update)",
+        "100% Lossless & MD5 Perfect: all files are identical to originals after installation",
+        "Bonus OST in FLAC format ripped, NOTHING re-encoded",
+        "Selective Download feature: you may skip downloading and installing of bonus content (MP3 OST + Wallpapers)",
+        "Significantly smaller archive size (compressed from 7 GB to 1.6/2.3 GB)",
+        "Installation takes 3-7 minutes (depending on your system and selected components)",
+        "After-install integrity check so you could make sure that everything installed properly",
+        "HDD space after installation: up to 6.9 GB",
+        "Language can be changed in game settings",
+        "At least 2 GB of free RAM (inc. virtual) required for installing this repack"
+      ]
+    }
+  ]
+}
